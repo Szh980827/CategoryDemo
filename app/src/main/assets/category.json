@@ -1,0 +1,205 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "type": "fruits",
+      "moduleTitle": "水果",
+      "moreLinkType": "storeTags",
+      "moreTextDisplay": "true",
+      "dataList": [
+        {
+          "id": "",
+          "type": "fruits",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "fruits",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "fruits",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "fruits",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "fruits",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "fruits",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "fruits",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        }
+      ]
+    },
+    {
+      "type": "vegetables",
+      "moduleTitle": "蔬菜",
+      "moreLinkType": "topic",
+      "moreTextDisplay": "true",
+      "dataList": [
+        {
+          "id": "",
+          "type": "vegetables",
+          "title": "紫薯",
+          "imgURL": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3971998928,2898015213&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "vegetables",
+          "title": "紫薯",
+          "imgURL": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3971998928,2898015213&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "vegetables",
+          "title": "紫薯",
+          "imgURL": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3971998928,2898015213&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        }
+      ]
+    },
+    {
+      "type": "h_fruits",
+      "moduleTitle": "高端水果",
+      "moreLinkType": "html",
+      "moreTextDisplay": "true",
+      "dataList": [
+        {
+          "id": "",
+          "type": "h_fruits",
+          "title": "山竹",
+          "imgURL": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3336968735,72042522&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "20",
+          "xian": "10.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "h_fruits",
+          "title": "山竹",
+          "imgURL": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3336968735,72042522&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "20",
+          "xian": "10.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "h_fruits",
+          "title": "山竹",
+          "imgURL": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3336968735,72042522&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "20",
+          "xian": "10.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "h_fruits",
+          "title": "山竹",
+          "imgURL": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3336968735,72042522&fm=26&gp=0.jpg",
+          "linkType": "storeTags",
+          "yuan": "20",
+          "xian": "10.9",
+          "linkParam": ""
+        }
+      ]
+    },
+    {
+      "type": "g_vegetables",
+      "moduleTitle": "蔬菜组合",
+      "moreLinkType": "userId",
+      "moreTextDisplay": "true",
+      "dataList": [
+      ]
+    },
+    {
+      "type": "daily",
+      "moduleTitle": "日用",
+      "moreLinkType": "channelId",
+      "moreTextDisplay": "true",
+      "dataList": [
+        {
+          "id": "",
+          "type": "daily",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": ""
+        },
+        {
+          "id": "",
+          "type": "daily",
+          "title": "橙子",
+          "imgURL": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1841990752,3615612762&fm=26&gp=0.jpg",
+          "yuan": "50",
+          "xian": "39.9",
+          "linkParam": "",
+          "online_time": "",
+          "offline_time": ""
+        }
+      ]
+    }
+  ]
+}
