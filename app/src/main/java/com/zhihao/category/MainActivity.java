@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
 	private List<String> menuList;                  // 左侧标题list
 	private List<CategoryBean.DataBean> homeList;   // 右侧商品列表list
-	private List<Integer> showTitle;                // 标题总数
+	private List<Integer> showTitle;                // 分类项目数量
 
 	private ListView lv_menu;       // 左侧标题ListView
 	private ListView lv_home;       // 右侧商品ListView

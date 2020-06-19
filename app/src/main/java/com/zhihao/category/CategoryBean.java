@@ -11,13 +11,10 @@ import java.util.List;
  */
 
 public class CategoryBean implements Serializable {
-
-
     /**
      * code : 0
      * data :
      */
-
     private int code;
     private List<DataBean> data;
 
@@ -43,7 +40,6 @@ public class CategoryBean implements Serializable {
         private String moreIcon;
         private String moduleStyle;
         private String moduleTitle;
-        private String moreLinkType;
         private String moreTextDisplay;
         private String moreUniversalNavigator;
         private List<DataListBean> dataList;
@@ -78,14 +74,6 @@ public class CategoryBean implements Serializable {
 
         public void setModuleTitle(String moduleTitle) {
             this.moduleTitle = moduleTitle;
-        }
-
-        public String getMoreLinkType() {
-            return moreLinkType;
-        }
-
-        public void setMoreLinkType(String moreLinkType) {
-            this.moreLinkType = moreLinkType;
         }
 
         public String getMoreTextDisplay() {

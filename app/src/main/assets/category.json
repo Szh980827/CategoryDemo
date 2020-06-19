@@ -4,7 +4,6 @@
     {
       "type": "fruits",
       "moduleTitle": "水果",
-      "moreLinkType": "storeTags",
       "moreTextDisplay": "true",
       "dataList": [
         {
@@ -82,7 +81,6 @@
     {
       "type": "vegetables",
       "moduleTitle": "蔬菜",
-      "moreLinkType": "topic",
       "moreTextDisplay": "true",
       "dataList": [
         {
@@ -120,7 +118,6 @@
     {
       "type": "h_fruits",
       "moduleTitle": "高端水果",
-      "moreLinkType": "html",
       "moreTextDisplay": "true",
       "dataList": [
         {
@@ -168,7 +165,6 @@
     {
       "type": "g_vegetables",
       "moduleTitle": "蔬菜组合",
-      "moreLinkType": "userId",
       "moreTextDisplay": "true",
       "dataList": [
       ]
@@ -176,7 +172,6 @@
     {
       "type": "daily",
       "moduleTitle": "日用",
-      "moreLinkType": "channelId",
       "moreTextDisplay": "true",
       "dataList": [
         {
